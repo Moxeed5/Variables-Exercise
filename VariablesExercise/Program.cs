@@ -6,6 +6,14 @@
         {
             Console.WriteLine("Hello, World!");
 
+            char letter = 'a';
+
+            bool nay = false;
+
+            double num = 222;
+
+            decimal bigNum = 10000; 
+
             //console write line prompting user for info
 
             Console.WriteLine("Enter your Name");
