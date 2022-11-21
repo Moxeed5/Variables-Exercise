@@ -32,6 +32,10 @@
 
 
             Console.WriteLine($"Hi {name}, you are {age} years old.");
+
+            Console.WriteLine($"If someone said that {num} > {bigNum}, that would {letter} {nay} statement.");
+
+      
             
 
 
